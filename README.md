@@ -10,7 +10,7 @@
 
 [http://54.167.210.200.xip.io/](http://54.167.210.200.xip.io/)
 
-## Um resumo do software instalado :
+## Resumo do software instalado :
 
 ```
 - Instancia
@@ -28,7 +28,7 @@ Ubuntu - 512 MB RAM, 1 vCPU, 20 GB SSD
 - Horário local alterado para UTC.
 ```
 
-## Uma lista de quaisquer recursos de terceiros que você usou para completar esse projeto.:
+## Lista de recursos de terceiros utlizado:
 
 ```
 - apache2
